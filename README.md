@@ -1,4 +1,5 @@
 # TCP_congestion_control
+[![HitCount](http://hits.dwyl.com/ksanu1998/https://githubcom/ksanu1998/TCP_congestion_control.svg)](http://hits.dwyl.com/ksanu1998/https://githubcom/ksanu1998/TCP_congestion_control)<br>
 <b> Lab Statement </b> <br>
 Implement the congestion control algorithm of TCP over a UDP socket. The server requests a file of data. The client then packetizes the file and sends these packets over the network. The server acknowledges these packets. These acknowledgments control the congestion window at the client (which is the transmitter of these packets). 
 
